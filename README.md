@@ -3,10 +3,7 @@
 AssetRipper is a tool for extracting assets from Unity serialized files (*CAB-*\*, *\*.assets*, *\*.sharedAssets*, etc.) and asset bundles (*\*.unity3d*, *\*.bundle*, etc.) and converting them into the native Unity engine format.
 
 # Donations
-The original author has decided to go to a ad powered platform. If you wish to support them go to the original repo.
-
-I (Lachee) do not support ads or any platform that uses them. I disagree with the direction the author is going. 
-So i am forking this and maintaining my own version for my own personal use. This wont be nearly as updated as the original, but it wont have ads.
+Dont donate to me, this is just a fork for longevity. 
 
 # Supported Versions
 
